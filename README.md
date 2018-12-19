@@ -19,6 +19,10 @@ Run one simple command to install and use the interactive project generator. You
 npx typescript-starter
 ```
 
+```bash
+npm install --save-dev react redux react-redux @types/react @types/react-redux
+```
+
 The interactive CLI will help you create and configure your project automatically.
 
 > Since this repo includes [the CLI and it's tests](./src/cli), you'll only need to fork or clone this project if you want to contribute. If you find this project useful, please consider [leaving a star](https://github.com/bitjson/typescript-starter/stargazers) so others can find it. Thanks!
